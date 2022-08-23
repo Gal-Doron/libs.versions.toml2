@@ -1,0 +1,33 @@
+{
+  "scanSettings": {
+    "configMode": "AUTO",
+    "configExternalURL": "",
+    "baseBranches": [ ],
+    "enableLicenseViolations": true
+  },
+  "buildSettings": {
+    "failBuilds": false,
+    "failLicenseBuilds": true,
+    "displayMode": "diff"
+  },
+  "issueSettings": {
+    "minSeverityLevel": "LOW",
+    "displayLicenseViolations": true
+  },
+  "remediateSettings": {
+
+    "enableRenovate": true,
+    "transitiveRemediation": true,
+    "baseBranches": [ "develop" ],
+    "extends": ["config:base"],
+    "packageRules": [
+        {
+          "automerge": false
+        },
+        {
+        "matchPackageNames": ["com.palantir.docker"],
+        "matchCurrentVersion": "!/^0.30.0$/"
+      }
+    ]
+  }
+}
