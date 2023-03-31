@@ -165,7 +165,7 @@ test-dockerComposeRuleJunit4 = { module = "com.palantir.docker.compose:docker-co
 
 test-springTest = { module = "org.springframework:spring-test" }
 
-test-jodaTime = { module = "joda-time:joda-time", version = "2.10.14" }
+test-jodaTime = { module = "joda-time:joda-time", version = "2.12.5" }
 
 test-junit4 = { module = "junit:junit", version.ref = "junit4" }
 test-junit5 = { module = "org.junit.jupiter:junit-jupiter", version.ref = "junit5" }
