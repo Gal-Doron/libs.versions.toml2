@@ -129,7 +129,7 @@ findbugsJsr305 = { module = "com.google.code.findbugs:jsr305", version = "3.0.2"
 
 jakartaPersistenceApi = { module = "jakarta.persistence:jakarta.persistence-api" }
 jakartaAnnotationApi = { module = "jakarta.annotation:jakarta.annotation-api" }
-micronautDataModel = { module = "io.micronaut.data:micronaut-data-model", version = "3.7.2" }
+micronautDataModel = { module = "io.micronaut.data:micronaut-data-model", version = "3.10.0" }
 
 jacksonAnnotations = { module = "com.fasterxml.jackson.core:jackson-annotations" }
 jacksonCore = { module = "com.fasterxml.jackson.core:jackson-core" }
