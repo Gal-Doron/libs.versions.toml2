@@ -64,7 +64,7 @@ micrometerCore = { module = "io.micrometer:micrometer-core" }
 micrometerPrometheus = { module = "io.micrometer:micrometer-registry-prometheus" }
 micrometerEelastic = { module = "io.micrometer:micrometer-registry-elastic" }
 
-nimbusdsOauth2Sdk = { module = "com.nimbusds:oauth2-oidc-sdk", version = "9.40" }
+nimbusdsOauth2Sdk = { module = "com.nimbusds:oauth2-oidc-sdk", version = "9.43.2" }
 
 
 opensaml = { module = "org.opensaml:opensaml", version = "2.6.6" }
