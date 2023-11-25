@@ -30,7 +30,7 @@ constraints-commonsCodec = { module = "commons-codec:commons-codec", version = "
 commonsDbcp2 = { module = "org.apache.commons:commons-dbcp2" }
 commonsIo = { module = "commons-io:commons-io", version = "2.11.0" }
 
-esapi = { module = "org.owasp.esapi:esapi", version = "2.4.0.0" }
+esapi = { module = "org.owasp.esapi:esapi", version = "2.5.3.0" }
 
 guava = { module = "com.google.guava:guava", version = "31.1-jre" }
 
