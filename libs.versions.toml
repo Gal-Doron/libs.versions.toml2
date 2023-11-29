@@ -139,7 +139,7 @@ jacksonDatatypeJsr310 = { module = "com.fasterxml.jackson.datatype:jackson-datat
 jacksonModelVersioning = { module = "com.github.jonpeterson:jackson-module-model-versioning", version = "1.2.2" }
 
 jasypt = { module = "org.jasypt:jasypt", version = "1.9.3" }
-jasyptSpringBoot = { module = "com.github.ulisesbocchio:jasypt-spring-boot", version = "3.0.4" }
+jasyptSpringBoot = { module = "com.github.ulisesbocchio:jasypt-spring-boot", version = "3.0.5" }
 
 reflectionUtil = { module = "de.cronn:reflection-util", version = "2.14.0" }
 
