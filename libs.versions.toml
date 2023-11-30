@@ -157,7 +157,7 @@ constraints-oraclepki = { module = "com.oracle.database.security:oraclepki", ver
 constraints-osdtCore = { module = "com.oracle.database.security:osdt_core", version.ref = "oracleDb" }
 constraints-osdtCert = { module = "com.oracle.database.security:osdt_cert", version.ref = "oracleDb" }
 
-constraints-xmlsec = { module = "org.apache.santuario:xmlsec", version = "2.3.1" }
+constraints-xmlsec = { module = "org.apache.santuario:xmlsec", version = "2.3.4" }
 
 # test libs
 test-dockerComposeRuleCore = { module = "com.palantir.docker.compose:docker-compose-rule-core", version.ref = "dockerComposeRule" }
