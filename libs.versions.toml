@@ -185,7 +185,7 @@ constraints-oracleDb = ["ojdbc", "oraNls", "constraints-oraclepki", "constraints
 [plugins]
 benManesVersions = { id = "com.github.ben-manes.versions", version = "0.42.0" }
 commonVersioning = { id = 'com.aptitudesoftware.common-versioning', version = '0.1.14'}
-dependencyAnalysis = { id = "com.autonomousapps.dependency-analysis", version = "1.12.0" }
+dependencyAnalysis = { id = "com.autonomousapps.dependency-analysis", version = "1.29.0" }
 grgit = { id = "org.ajoberstar.grgit", version = "5.0.0" }
 menda = { id = "com.aptitudesoftware.whitesource", version = "1.0.42" }
 shadow = { id = "com.github.johnrengelman.shadow", version = "7.1.2" }
