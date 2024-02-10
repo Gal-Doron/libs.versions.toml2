@@ -8,7 +8,7 @@ junit4 = "4.13.2"
 junit5 = "5.9.0"
 # projects use Groovy to configure logback, version 1.2.7 is the latest with Groovy support
 logback = { strictly = "1.2.7" }
-oracleDb = { strictly = "19.14.0.0" }
+oracleDb = { strictly = "19.22.0.0" }
 springBoot = "2.7.2"
 springSecurityKerberos = "1.0.1.RELEASE"
 
