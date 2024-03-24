@@ -18,7 +18,7 @@ platform-oracleDb = { module = "com.oracle.database.jdbc:ojdbc-bom", version.ref
 platform-springBoot = { module = "org.springframework.boot:spring-boot-dependencies", version.ref = "springBoot" }
 
 
-aspectjweaver = { module = "org.aspectj:aspectjweaver", version = "1.9.9.1" }
+aspectjweaver = { module = "org.aspectj:aspectjweaver", version = "1.9.22" }
 
 bcpgJdk15on = { module = "org.bouncycastle:bcpg-jdk15on", version.ref = "bouncyCastleCrypto" }
 bcprovJdk15on = { module = "org.bouncycastle:bcprov-jdk15on", version.ref = "bouncyCastleCrypto" }
